@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+export(champ_electrique)
+export(champ_magnetique)
+export(onde_electromagnetique)
+export(visualiser_champ_electrique)
+export(visualiser_champ_magnetique)
+export(visualiser_onde_electromagnetique)

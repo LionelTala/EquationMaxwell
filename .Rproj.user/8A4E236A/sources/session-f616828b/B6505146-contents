@@ -1,0 +1,10 @@
+Package: MaxwellEngineering
+Type: Package
+Title: Résolution des problèmes d'ingénierie liés aux équations de Maxwell
+Version: 0.1.0
+Author: SIKALI TALA FRANCIS LIONEL
+Maintainer: Ton Nom <lioneltala93230@gmail.com>
+Description: Un package pour résoudre des problèmes d'ingénierie utilisant les équations de Maxwell, avec des visualisations.
+License: MIT
+Imports:
+    ggplot2

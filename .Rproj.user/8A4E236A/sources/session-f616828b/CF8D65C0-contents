@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+export(champ_electrique)  # Exporte la fonction champ_electrique
+export(champ_magnetique)  # Exporte la fonction champ_magnetique
+export(onde_electromagnetique)  # Exporte la fonction onde_electromagnetique
+export(visualiser_champ_electrique)  # Exporte la fonction de visualisation du champ électrique
+export(visualiser_champ_magnetique)  # Exporte la fonction de visualisation du champ magnétique
+export(visualiser_onde_electromagnetique)  # Exporte la fonction de visualisation de l'énergie des ondes électromagnétiques
